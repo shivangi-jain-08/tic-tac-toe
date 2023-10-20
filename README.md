@@ -11,7 +11,7 @@ Fork this repo and get started with the project.
 ## Additional details:
 The font used is Fredoka One
 
-Background clour is dodgerblue
+Background color is dodgerblue
 
 Heading style is text stroke
 
